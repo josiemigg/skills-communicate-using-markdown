@@ -18,3 +18,7 @@ name: str = 'Squilliam'
 for i in range(10):
   print(f"{i}th iteration!")
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
