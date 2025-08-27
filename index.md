@@ -10,4 +10,4 @@
 
 ###### This is h6
 
-In this commit, I added six lines showcasing the various header sizes.
+![Image of this yaktocat thing](https://octodex.github.com/images/yaktocat.png)
